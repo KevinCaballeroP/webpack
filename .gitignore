@@ -41,7 +41,10 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+<<<<<<< HEAD
 dist
+=======
+>>>>>>> 9489063a48b633252494108433f7dbcffc3230ae
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
